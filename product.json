@@ -25,23 +25,28 @@
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/5.jpeg"
     },
     {
-        "title": "Product_4",
-        "description": "Суу куйба",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/4.jpeg"
+        "title": "Product_6",
+        "description": "Сурап кор озунон",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/6.jpeg"
     },
     {
-        "title": "Product_5",
-        "description": "Суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/5.jpeg"
+        "title": "Product_7",
+        "description": "Озун бил",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/7.jpeg"
     },
     {
-        "title": "Product_4",
-        "description": "Суу куйба",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/4.jpeg"
+        "title": "Product_8",
+        "description": "Тур",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/8.jpeg"
     },
     {
-        "title": "Product_5",
-        "description": "Суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/5.jpeg"
+        "title": "Product_9",
+        "description": "Укта ",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/9.jpeg"
+    },
+    {
+        "title": "Product_10",
+        "description": "Каалаганынды кыл",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/10.jpeg"
     }
 ]
