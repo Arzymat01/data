@@ -348,13 +348,13 @@
         "waterAmountMlPerDay": 80
     },
     {
-        "title": "Lemon tree (mini)",
+        "title": "Lemon tree ",
         "description": "Fresh scent and compact size.",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/59.jpeg",
         "waterAmountMlPerDay": 70
     },
     {
-        "title": "Mandarin tree (indoor)",
+        "title": "Mandarin tree",
         "description": "Sweet fruit in small space.",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/60.jpeg",
         "waterAmountMlPerDay": 500
