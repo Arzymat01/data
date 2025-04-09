@@ -3,7 +3,7 @@
         "title": "Ficus",
         "description": "Thrives in bright, indirect light. Avoid overwatering.",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/1.jpeg",
-        "waterAmountMlPerDay": 1200
+        "waterAmountMlPerDay": 120
     },
     {
         "title": "Cactus",
