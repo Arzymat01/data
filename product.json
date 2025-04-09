@@ -123,5 +123,30 @@
         "title": "Yucca",
         "description": "Суу куй",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/25.jpeg"
+    },
+    {
+        "title": "Yucca",
+        "description": "Эрте менен суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/26.jpeg"
+    },
+    {
+        "title": "Pelargonium",
+        "description": "Тушто суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/27.jpeg"
+    },
+    {
+        "title": "Tradescantia",
+        "description": "Кеч  суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/28.jpeg"
+    },
+    {
+        "title": "Haworthia",
+        "description": "Суу куйба",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/29.jpeg"
+    },
+    {
+        "title": "Echeveria",
+        "description": "Суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/30.jpeg"
     }
 ]
