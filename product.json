@@ -1,252 +1,302 @@
 [
     {
         "title": "Ficus",
-        "description": "RRRRRRR",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/1.jpeg"
+        "description": "Thrives in bright, indirect light. Avoid overwatering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/1.jpeg",
+        "waterAmountMlPerDay": 1200
     },
     {
         "title": "Cactus",
-        "description": "Тушто суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/2.jpeg"
+        "description": "Prefers dry conditions. Needs minimal care.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/2.jpeg",
+        "waterAmountMlPerDay": 20
     },
     {
         "title": "Aloe",
-        "description": "Кеч  суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/3.jpeg"
+        "description": "Succulent plant. Let soil dry between watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/3.jpeg",
+        "waterAmountMlPerDay": 30
     },
     {
         "title": "Spathiphyllum",
-        "description": "Суу куйба",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/4.jpeg"
+        "description": "Loves humidity. Keep soil consistently moist.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/4.jpeg",
+        "waterAmountMlPerDay": 100
     },
     {
         "title": "Chlorophytum",
-        "description": "Суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/5.jpeg"
+        "description": "Tolerates low light. Allow topsoil to dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/5.jpeg",
+        "waterAmountMlPerDay": 80
     },
     {
         "title": "Fern",
-        "description": "Сурап кор озунон",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/6.jpeg"
+        "description": "Prefers indirect light and high humidity. Keep soil moist.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/6.jpeg",
+        "waterAmountMlPerDay": 90
     },
     {
         "title": "Sansevieria",
-        "description": "Озун бил",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/7.jpeg"
+        "description": "Tolerant of low light. Allow soil to dry completely between waterings.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/7.jpeg",
+        "waterAmountMlPerDay": 30
     },
     {
         "title": "Orchid",
-        "description": "Тур",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/8.jpeg"
+        "description": "Requires indirect light and high humidity. Water when roots appear silvery.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/8.jpeg",
+        "waterAmountMlPerDay": 50
     },
     {
         "title": "Begonia",
-        "description": "Укта ",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/9.jpeg"
+        "description": "Enjoys bright, indirect light. Keep soil slightly moist.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/9.jpeg",
+        "waterAmountMlPerDay": 70
     },
     {
         "title": "Geranium",
-        "description": "Каалаганынды кыл",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/10.jpeg"
+        "description": "Requires full sun and regular watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/10.jpeg",
+        "waterAmountMlPerDay": 80
     },
     {
         "title": "Monstera",
-        "description": "Эрте менен суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/11.jpeg"
+        "description": "Prefers bright, indirect light. Water when soil is dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/11.jpeg",
+        "waterAmountMlPerDay": 100
     },
     {
         "title": "Dracaena",
-        "description": "Тушто суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/12.jpeg"
+        "description": "Tolerates low light and dry soil. Water when dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/12.jpeg",
+        "waterAmountMlPerDay": 60
     },
     {
         "title": "Calathea",
-        "description": "Кеч  суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/13.jpeg"
+        "description": "Likes bright, indirect light and consistent moisture.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/13.jpeg",
+        "waterAmountMlPerDay": 80
     },
     {
         "title": "Philodendron",
-        "description": "Суу куйба",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/14.jpeg"
+        "description": "Requires indirect light and moist soil.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/14.jpeg",
+        "waterAmountMlPerDay": 90
     },
     {
         "title": "Pilea",
-        "description": "Суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/15.jpeg"
+        "description": "Prefers bright, indirect light. Water when the topsoil dries.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/15.jpeg",
+        "waterAmountMlPerDay": 60
     },
     {
         "title": "Zamioculcas",
-        "description": "Сурап кор озунон",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/16.jpeg"
+        "description": "Can tolerate low light and drought. Water when the soil is dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/16.jpeg",
+        "waterAmountMlPerDay": 40
     },
     {
         "title": "Epipremnum",
-        "description": "Озун бил",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/17.jpeg"
+        "description": "Prefers indirect light. Allow soil to dry between waterings.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/17.jpeg",
+        "waterAmountMlPerDay": 60
     },
     {
         "title": "Anthurium",
-        "description": "Тур",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/18.jpeg"
+        "description": "Likes bright, indirect light and high humidity. Keep soil moist.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/18.jpeg",
+        "waterAmountMlPerDay": 100
     },
     {
         "title": "Croton",
-        "description": "Укта ",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/19.jpeg"
+        "description": "Prefers bright light and regular watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/19.jpeg",
+        "waterAmountMlPerDay": 90
     },
     {
         "title": "Maranta",
-        "description": "Каалаганынды кыл",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/20.jpeg"
+        "description": "Likes bright, indirect light. Keep soil moist.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/20.jpeg",
+        "waterAmountMlPerDay": 70
     },
     {
         "title": "Hibiscus",
-        "description": "Эрте менен суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/21.jpeg"
+        "description": "Enjoys full sun and regular watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/21.jpeg",
+        "waterAmountMlPerDay": 120
     },
     {
         "title": "Maranta",
-        "description": "Тушто суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/22.jpeg"
+        "description": "Likes bright, indirect light. Keep soil moist.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/22.jpeg",
+        "waterAmountMlPerDay": 70
     },
     {
         "title": "Azalea",
-        "description": "Кеч  суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/23.jpeg"
+        "description": "Prefers acidic soil and bright, indirect light. Water regularly.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/23.jpeg",
+        "waterAmountMlPerDay": 100
     },
     {
         "title": "Schefflera",
-        "description": "Суу куйба",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/24.jpeg"
+        "description": "Thrives in indirect light. Water when the soil is dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/24.jpeg",
+        "waterAmountMlPerDay": 80
     },
     {
         "title": "Yucca",
-        "description": "Суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/25.jpeg"
+        "description": "Needs bright light and little water.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/25.jpeg",
+        "waterAmountMlPerDay": 40
     },
     {
         "title": "Yucca",
-        "description": "Эрте менен суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/26.jpeg"
+        "description": "Water when the soil is dry. Prefers bright light.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/26.jpeg",
+        "waterAmountMlPerDay": 40
     },
     {
         "title": "Pelargonium",
-        "description": "Тушто суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/27.jpeg"
+        "description": "Enjoys bright light. Water when the topsoil is dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/27.jpeg",
+        "waterAmountMlPerDay": 60
     },
     {
         "title": "Tradescantia",
-        "description": "Кеч  суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/28.jpeg"
+        "description": "Prefers bright, indirect light. Water when soil is dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/28.jpeg",
+        "waterAmountMlPerDay": 50
     },
     {
         "title": "Haworthia",
-        "description": "Суу куйба",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/29.jpeg"
+        "description": "Succulent plant. Allow soil to dry between waterings.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/29.jpeg",
+        "waterAmountMlPerDay": 20
     },
     {
         "title": "Echeveria",
-        "description": "Суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/30.jpeg"
+        "description": "Succulent plant. Let soil dry between waterings.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/30.jpeg",
+        "waterAmountMlPerDay": 20
     },
     {
-        "title": "Ficus",
-        "description": "RRRRRRR",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/1.jpeg"
+        "title": "Succulent",
+        "description": "Requires minimal water. Allow soil to dry between watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/31.jpeg",
+        "waterAmountMlPerDay": 20
     },
     {
-        "title": "Cactus",
-        "description": "Тушто суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/2.jpeg"
+        "title": "Gloxinia",
+        "description": "Prefers indirect light and consistently moist soil.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/32.jpeg",
+        "waterAmountMlPerDay": 80
     },
     {
-        "title": "Aloe",
-        "description": "Кеч  суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/3.jpeg"
+        "title": "Cyclamen",
+        "description": "Requires cool temperatures and bright, indirect light. Water when dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/33.jpeg",
+        "waterAmountMlPerDay": 60
     },
     {
-        "title": "Spathiphyllum",
-        "description": "Суу куйба",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/4.jpeg"
+        "title": "Kalanchoe",
+        "description": "Succulent plant. Let soil dry between watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/34.jpeg",
+        "waterAmountMlPerDay": 30
     },
     {
-        "title": "Chlorophytum",
-        "description": "Суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/5.jpeg"
+        "title": "Livistona (Palm)",
+        "description": "Needs bright light and consistent watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/35.jpeg",
+        "waterAmountMlPerDay": 100
     },
     {
-        "title": "Fern",
-        "description": "Сурап кор озунон",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/6.jpeg"
+        "title": "Hoya",
+        "description": "Prefers indirect light. Water when the soil is dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/36.jpeg",
+        "waterAmountMlPerDay": 60
     },
     {
-        "title": "Sansevieria",
-        "description": "Озун бил",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/7.jpeg"
+        "title": "Syngonium",
+        "description": "Likes indirect light. Water when soil is dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/37.jpeg",
+        "waterAmountMlPerDay": 70
     },
     {
-        "title": "Orchid",
-        "description": "Тур",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/8.jpeg"
+        "title": "Aglaonema",
+        "description": "Tolerates low light and dry soil. Water regularly.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/38.jpeg",
+        "waterAmountMlPerDay": 70
     },
     {
-        "title": "Begonia",
-        "description": "Укта ",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/9.jpeg"
+        "title": "Dieffenbachia",
+        "description": "Prefers bright, indirect light. Keep soil moist.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/39.jpeg",
+        "waterAmountMlPerDay": 90
     },
     {
-        "title": "Geranium",
-        "description": "Каалаганынды кыл",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/10.jpeg"
+        "title": "Rose (miniature)",
+        "description": "Requires full sun and regular watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/40.jpeg",
+        "waterAmountMlPerDay": 100
     },
     {
-        "title": "Monstera",
-        "description": "Эрте менен суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/11.jpeg"
+        "title": "Bamboo (indoor)",
+        "description": "Tolerates low light and requires minimal watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/41.jpeg",
+        "waterAmountMlPerDay": 40
     },
     {
-        "title": "Dracaena",
-        "description": "Тушто суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/12.jpeg"
+        "title": "Cypress (for indoors)",
+        "description": "Needs bright, indirect light and regular watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/42.jpeg",
+        "waterAmountMlPerDay": 80
     },
     {
-        "title": "Calathea",
-        "description": "Кеч  суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/13.jpeg"
+        "title": "Lavender (grown indoors)",
+        "description": "Needs full sun and minimal water.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/43.jpeg",
+        "waterAmountMlPerDay": 40
     },
     {
-        "title": "Philodendron",
-        "description": "Суу куйба",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/14.jpeg"
+        "title": "Myrtle",
+        "description": "Prefers bright light and regular watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/44.jpeg",
+        "waterAmountMlPerDay": 80
     },
     {
-        "title": "Pilea",
-        "description": "Суу куй",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/15.jpeg"
+        "title": "Nolina",
+        "description": "Tolerates dry conditions. Water when the soil is dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/45.jpeg",
+        "waterAmountMlPerDay": 30
     },
     {
-        "title": "Zamioculcas",
-        "description": "Сурап кор озунон",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/16.jpeg"
+        "title": "Oleander",
+        "description": "Prefers full sun and regular watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/46.jpeg",
+        "waterAmountMlPerDay": 100
     },
     {
-        "title": "Epipremnum",
-        "description": "Озун бил",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/17.jpeg"
+        "title": "Passiflora",
+        "description": "Requires bright light and consistent watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/47.jpeg",
+        "waterAmountMlPerDay": 80
     },
     {
-        "title": "Anthurium",
-        "description": "Тур",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/18.jpeg"
+        "title": "Ivy",
+        "description": "Prefers indirect light and moderate watering.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/48.jpeg",
+        "waterAmountMlPerDay": 70
     },
     {
-        "title": "Croton",
-        "description": "Укта ",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/19.jpeg"
+        "title": "Rhipsalis",
+        "description": "Enjoys bright, indirect light. Water when soil is dry.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/49.jpeg",
+        "waterAmountMlPerDay": 50
     },
     {
-        "title": "Maranta",
-        "description": "Каалаганынды кыл",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/20.jpeg"
+        "title": "Streptocarpus",
+        "description": "Prefers bright, indirect light. Keep soil moist.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/50.jpeg",
+        "waterAmountMlPerDay": 90
     }
 ]
