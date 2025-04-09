@@ -1,52 +1,127 @@
 [
     {
-        "title": "Product_1",
+        "title": "Ficus",
         "description": "Эрте менен суу куй",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/1.jpeg"
     },
     {
-        "title": "Product_2",
+        "title": "Cactus",
         "description": "Тушто суу куй",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/2.jpeg"
     },
     {
-        "title": "Product_3",
+        "title": "Aloe",
         "description": "Кеч  суу куй",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/3.jpeg"
     },
     {
-        "title": "Product_4",
+        "title": "Spathiphyllum",
         "description": "Суу куйба",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/4.jpeg"
     },
     {
-        "title": "Product_5",
+        "title": "Chlorophytum",
         "description": "Суу куй",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/5.jpeg"
     },
     {
-        "title": "Product_6",
+        "title": "Fern",
         "description": "Сурап кор озунон",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/6.jpeg"
     },
     {
-        "title": "Product_7",
+        "title": "Sansevieria",
         "description": "Озун бил",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/7.jpeg"
     },
     {
-        "title": "Product_8",
+        "title": "Orchid",
         "description": "Тур",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/8.jpeg"
     },
     {
-        "title": "Product_9",
+        "title": "Begonia",
         "description": "Укта ",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/9.jpeg"
     },
     {
-        "title": "Product_10",
+        "title": "Geranium",
         "description": "Каалаганынды кыл",
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/10.jpeg"
+    },
+    {
+        "title": "Monstera",
+        "description": "Эрте менен суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/11.jpeg"
+    },
+    {
+        "title": "Dracaena",
+        "description": "Тушто суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/12.jpeg"
+    },
+    {
+        "title": "Calathea",
+        "description": "Кеч  суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/13.jpeg"
+    },
+    {
+        "title": "Philodendron",
+        "description": "Суу куйба",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/14.jpeg"
+    },
+    {
+        "title": "Pilea",
+        "description": "Суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/15.jpeg"
+    },
+    {
+        "title": "Zamioculcas",
+        "description": "Сурап кор озунон",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/16.jpeg"
+    },
+    {
+        "title": "Epipremnum",
+        "description": "Озун бил",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/17.jpeg"
+    },
+    {
+        "title": "Anthurium",
+        "description": "Тур",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/18.jpeg"
+    },
+    {
+        "title": "Croton",
+        "description": "Укта ",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/19.jpeg"
+    },
+    {
+        "title": "Maranta",
+        "description": "Каалаганынды кыл",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/20.jpeg"
+    },
+    {
+        "title": "Hibiscus",
+        "description": "Эрте менен суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/21.jpeg"
+    },
+    {
+        "title": "Maranta",
+        "description": "Тушто суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/22.jpeg"
+    },
+    {
+        "title": "Azalea",
+        "description": "Кеч  суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/23.jpeg"
+    },
+    {
+        "title": "Schefflera",
+        "description": "Суу куйба",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/24.jpeg"
+    },
+    {
+        "title": "Yucca",
+        "description": "Суу куй",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/25.jpeg"
     }
 ]
