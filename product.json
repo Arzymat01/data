@@ -299,66 +299,64 @@
         "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/50.jpeg",
         "waterAmountMlPerDay": 90
     },
-    [
-        {
-            "title": "Tillandsia",
-            "description": "Air plant with unique look.",
-            "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/51.jpeg",
-            "waterAmountMlPerDay": 100
-        },
-        {
-            "title": "Fittonia",
-            "description": "Perfect for low light areas.",
-            "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/52.jpeg",
-            "waterAmountMlPerDay": 40
-        },
-        {
-            "title": "Chrysanthemum (indoor)",
-            "description": "Brightens up any room.",
-            "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/53.jpeg",
-            "waterAmountMlPerDay": 80
-        },
-        {
-            "title": "Cissus",
-            "description": "Climbing plant with charm.",
-            "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/54.jpeg",
-            "waterAmountMlPerDay": 40
-        },
-        {
-            "title": "Aeonium",
-            "description": "Succulent with bold texture.",
-            "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/55.jpeg",
-            "waterAmountMlPerDay": 80
-        },
-        {
-            "title": "Gardenia",
-            "description": "Fragrant and elegant.",
-            "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/56.jpeg",
-            "waterAmountMlPerDay": 30
-        },
-        {
-            "title": "Camellia",
-            "description": "Blooms with bright colors.",
-            "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/57.jpeg",
-            "waterAmountMlPerDay": 100
-        },
-        {
-            "title": "Coffee plant",
-            "description": "Lush and tropical vibe.",
-            "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/58.jpeg",
-            "waterAmountMlPerDay": 80
-        },
-        {
-            "title": "Lemon tree (mini)",
-            "description": "Fresh scent and compact size.",
-            "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/59.jpeg",
-            "waterAmountMlPerDay": 70
-        },
-        {
-            "title": "Mandarin tree (indoor)",
-            "description": "Sweet fruit in small space.",
-            "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/60.jpeg",
-            "waterAmountMlPerDay": 50
-        }
-    ]
+    {
+        "title": "Tillandsia",
+        "description": "Air plant with unique look.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/51.jpeg",
+        "waterAmountMlPerDay": 100
+    },
+    {
+        "title": "Fittonia",
+        "description": "Perfect for low light areas.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/52.jpeg",
+        "waterAmountMlPerDay": 40
+    },
+    {
+        "title": "Chrysanthemum (indoor)",
+        "description": "Brightens up any room.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/53.jpeg",
+        "waterAmountMlPerDay": 80
+    },
+    {
+        "title": "Cissus",
+        "description": "Climbing plant with charm.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/54.jpeg",
+        "waterAmountMlPerDay": 40
+    },
+    {
+        "title": "Aeonium",
+        "description": "Succulent with bold texture.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/55.jpeg",
+        "waterAmountMlPerDay": 80
+    },
+    {
+        "title": "Gardenia",
+        "description": "Fragrant and elegant.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/56.jpeg",
+        "waterAmountMlPerDay": 30
+    },
+    {
+        "title": "Camellia",
+        "description": "Blooms with bright colors.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/57.jpeg",
+        "waterAmountMlPerDay": 100
+    },
+    {
+        "title": "Coffee plant",
+        "description": "Lush and tropical vibe.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/58.jpeg",
+        "waterAmountMlPerDay": 80
+    },
+    {
+        "title": "Lemon tree (mini)",
+        "description": "Fresh scent and compact size.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/59.jpeg",
+        "waterAmountMlPerDay": 70
+    },
+    {
+        "title": "Mandarin tree (indoor)",
+        "description": "Sweet fruit in small space.",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/60.jpeg",
+        "waterAmountMlPerDay": 50
+    }
 ]
