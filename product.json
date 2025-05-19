@@ -2,55 +2,55 @@
     {
         "title": "Алоэ Вера",
         "description": "Thrives in bright, indirect light. Avoid overwatering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/aloe.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/aloe.png",
         "waterAmountMlPerDay": 120
     },
     {
         "title": "Антуриум",
         "description": "Prefers dry conditions. Needs minimal care.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/anti.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/anti.png",
         "waterAmountMlPerDay": 20
     },
     {
         "title": "Каланхоэ ",
         "description": "Succulent plant. Let soil dry between watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/kal.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/kal.png",
         "waterAmountMlPerDay": 30
     },
     {
         "title": "Каланхоэ.png",
         "description": "Loves humidity. Keep soil consistently moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/kalonhe.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/kalonhe.png",
         "waterAmountMlPerDay": 100
     },
     {
         "title": "Монстера ",
         "description": "Tolerates low light. Allow topsoil to dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/monst.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/monst.png",
         "waterAmountMlPerDay": 80
     },
     {
         "title": "Орхидея",
         "description": "Prefers indirect light and high humidity. Keep soil moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/arhidea.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/arhidea.png",
         "waterAmountMlPerDay": 90
     },
     {
         "title": "Сансевиерия",
         "description": "Tolerant of low light. Allow soil to dry completely between waterings.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/san.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/san.png",
         "waterAmountMlPerDay": 30
     },
     {
         "title": "Спатифиллум",
         "description": "Requires indirect light and high humidity. Water when roots appear silvery.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/spat.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/spat.png",
         "waterAmountMlPerDay": 50
     },
     {
         "title": "Фикус",
         "description": "Enjoys bright, indirect light. Keep soil slightly moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/ficus.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/ficus.png",
         "waterAmountMlPerDay": 70
     }
 ]
