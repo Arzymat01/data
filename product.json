@@ -1,362 +1,56 @@
 [
     {
-        "title": "Ficus",
+        "title": "Алоэ Вера",
         "description": "Thrives in bright, indirect light. Avoid overwatering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/1.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/aloe.jpeg",
         "waterAmountMlPerDay": 120
     },
     {
-        "title": "Cactus",
+        "title": "Антуриум",
         "description": "Prefers dry conditions. Needs minimal care.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/2.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/anti.jpeg",
         "waterAmountMlPerDay": 20
     },
     {
-        "title": "Aloe",
+        "title": "Каланхоэ ",
         "description": "Succulent plant. Let soil dry between watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/3.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/kal.jpeg",
         "waterAmountMlPerDay": 30
     },
     {
-        "title": "Spathiphyllum",
+        "title": "Каланхоэ.png",
         "description": "Loves humidity. Keep soil consistently moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/4.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/kalonhe.jpeg",
         "waterAmountMlPerDay": 100
     },
     {
-        "title": "Chlorophytum",
+        "title": "Монстера ",
         "description": "Tolerates low light. Allow topsoil to dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/5.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/monst.jpeg",
         "waterAmountMlPerDay": 80
     },
     {
-        "title": "Fern",
+        "title": "Орхидея",
         "description": "Prefers indirect light and high humidity. Keep soil moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/6.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/arhidea.jpeg",
         "waterAmountMlPerDay": 90
     },
     {
-        "title": "Sansevieria",
+        "title": "Сансевиерия",
         "description": "Tolerant of low light. Allow soil to dry completely between waterings.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/7.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/san.jpeg",
         "waterAmountMlPerDay": 30
     },
     {
-        "title": "Orchid",
+        "title": "Спатифиллум",
         "description": "Requires indirect light and high humidity. Water when roots appear silvery.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/8.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/spat.jpeg",
         "waterAmountMlPerDay": 50
     },
     {
-        "title": "Begonia",
+        "title": "Фикус",
         "description": "Enjoys bright, indirect light. Keep soil slightly moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/9.jpeg",
+        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/ficus.jpeg",
         "waterAmountMlPerDay": 70
-    },
-    {
-        "title": "Geranium",
-        "description": "Requires full sun and regular watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/10.jpeg",
-        "waterAmountMlPerDay": 80
-    },
-    {
-        "title": "Monstera",
-        "description": "Prefers bright, indirect light. Water when soil is dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/11.jpeg",
-        "waterAmountMlPerDay": 100
-    },
-    {
-        "title": "Dracaena",
-        "description": "Tolerates low light and dry soil. Water when dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/12.jpeg",
-        "waterAmountMlPerDay": 60
-    },
-    {
-        "title": "Calathea",
-        "description": "Likes bright, indirect light and consistent moisture.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/13.jpeg",
-        "waterAmountMlPerDay": 80
-    },
-    {
-        "title": "Philodendron",
-        "description": "Requires indirect light and moist soil.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/14.jpeg",
-        "waterAmountMlPerDay": 90
-    },
-    {
-        "title": "Pilea",
-        "description": "Prefers bright, indirect light. Water when the topsoil dries.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/15.jpeg",
-        "waterAmountMlPerDay": 60
-    },
-    {
-        "title": "Zamioculcas",
-        "description": "Can tolerate low light and drought. Water when the soil is dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/16.jpeg",
-        "waterAmountMlPerDay": 40
-    },
-    {
-        "title": "Epipremnum",
-        "description": "Prefers indirect light. Allow soil to dry between waterings.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/17.jpeg",
-        "waterAmountMlPerDay": 60
-    },
-    {
-        "title": "Anthurium",
-        "description": "Likes bright, indirect light and high humidity. Keep soil moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/18.jpeg",
-        "waterAmountMlPerDay": 100
-    },
-    {
-        "title": "Croton",
-        "description": "Prefers bright light and regular watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/19.jpeg",
-        "waterAmountMlPerDay": 90
-    },
-    {
-        "title": "Maranta",
-        "description": "Likes bright, indirect light. Keep soil moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/20.jpeg",
-        "waterAmountMlPerDay": 70
-    },
-    {
-        "title": "Hibiscus",
-        "description": "Enjoys full sun and regular watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/21.jpeg",
-        "waterAmountMlPerDay": 120
-    },
-    {
-        "title": "Maranta",
-        "description": "Likes bright, indirect light. Keep soil moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/22.jpeg",
-        "waterAmountMlPerDay": 70
-    },
-    {
-        "title": "Azalea",
-        "description": "Prefers acidic soil and bright, indirect light. Water regularly.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/23.jpeg",
-        "waterAmountMlPerDay": 100
-    },
-    {
-        "title": "Schefflera",
-        "description": "Thrives in indirect light. Water when the soil is dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/24.jpeg",
-        "waterAmountMlPerDay": 80
-    },
-    {
-        "title": "Yucca",
-        "description": "Needs bright light and little water.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/25.jpeg",
-        "waterAmountMlPerDay": 40
-    },
-    {
-        "title": "Yucca",
-        "description": "Water when the soil is dry. Prefers bright light.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/26.jpeg",
-        "waterAmountMlPerDay": 40
-    },
-    {
-        "title": "Pelargonium",
-        "description": "Enjoys bright light. Water when the topsoil is dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/27.jpeg",
-        "waterAmountMlPerDay": 60
-    },
-    {
-        "title": "Tradescantia",
-        "description": "Prefers bright, indirect light. Water when soil is dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/28.jpeg",
-        "waterAmountMlPerDay": 50
-    },
-    {
-        "title": "Haworthia",
-        "description": "Succulent plant. Allow soil to dry between waterings.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/29.jpeg",
-        "waterAmountMlPerDay": 20
-    },
-    {
-        "title": "Echeveria",
-        "description": "Succulent plant. Let soil dry between waterings.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/30.jpeg",
-        "waterAmountMlPerDay": 20
-    },
-    {
-        "title": "Succulent",
-        "description": "Requires minimal water. Allow soil to dry between watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/31.jpeg",
-        "waterAmountMlPerDay": 20
-    },
-    {
-        "title": "Gloxinia",
-        "description": "Prefers indirect light and consistently moist soil.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/32.jpeg",
-        "waterAmountMlPerDay": 80
-    },
-    {
-        "title": "Cyclamen",
-        "description": "Requires cool temperatures and bright, indirect light. Water when dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/33.jpeg",
-        "waterAmountMlPerDay": 60
-    },
-    {
-        "title": "Kalanchoe",
-        "description": "Succulent plant. Let soil dry between watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/34.jpeg",
-        "waterAmountMlPerDay": 30
-    },
-    {
-        "title": "Livistona (Palm)",
-        "description": "Needs bright light and consistent watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/35.jpeg",
-        "waterAmountMlPerDay": 100
-    },
-    {
-        "title": "Hoya",
-        "description": "Prefers indirect light. Water when the soil is dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/36.jpeg",
-        "waterAmountMlPerDay": 60
-    },
-    {
-        "title": "Syngonium",
-        "description": "Likes indirect light. Water when soil is dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/37.jpeg",
-        "waterAmountMlPerDay": 70
-    },
-    {
-        "title": "Aglaonema",
-        "description": "Tolerates low light and dry soil. Water regularly.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/38.jpeg",
-        "waterAmountMlPerDay": 70
-    },
-    {
-        "title": "Dieffenbachia",
-        "description": "Prefers bright, indirect light. Keep soil moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/39.jpeg",
-        "waterAmountMlPerDay": 90
-    },
-    {
-        "title": "Rose (miniature)",
-        "description": "Requires full sun and regular watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/40.jpeg",
-        "waterAmountMlPerDay": 100
-    },
-    {
-        "title": "Bamboo (indoor)",
-        "description": "Tolerates low light and requires minimal watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/41.jpeg",
-        "waterAmountMlPerDay": 40
-    },
-    {
-        "title": "Cypress (for indoors)",
-        "description": "Needs bright, indirect light and regular watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/42.jpeg",
-        "waterAmountMlPerDay": 80
-    },
-    {
-        "title": "Lavender (grown indoors)",
-        "description": "Needs full sun and minimal water.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/43.jpeg",
-        "waterAmountMlPerDay": 40
-    },
-    {
-        "title": "Myrtle",
-        "description": "Prefers bright light and regular watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/44.jpeg",
-        "waterAmountMlPerDay": 80
-    },
-    {
-        "title": "Nolina",
-        "description": "Tolerates dry conditions. Water when the soil is dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/45.jpeg",
-        "waterAmountMlPerDay": 30
-    },
-    {
-        "title": "Oleander",
-        "description": "Prefers full sun and regular watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/46.jpeg",
-        "waterAmountMlPerDay": 100
-    },
-    {
-        "title": "Passiflora",
-        "description": "Requires bright light and consistent watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/47.jpeg",
-        "waterAmountMlPerDay": 80
-    },
-    {
-        "title": "Ivy",
-        "description": "Prefers indirect light and moderate watering.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/48.jpeg",
-        "waterAmountMlPerDay": 70
-    },
-    {
-        "title": "Rhipsalis",
-        "description": "Enjoys bright, indirect light. Water when soil is dry.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/49.jpeg",
-        "waterAmountMlPerDay": 50
-    },
-    {
-        "title": "Streptocarpus",
-        "description": "Prefers bright, indirect light. Keep soil moist.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/50.jpeg",
-        "waterAmountMlPerDay": 90
-    },
-    {
-        "title": "Tillandsia",
-        "description": "Air plant with unique look.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/51.jpeg",
-        "waterAmountMlPerDay": 100
-    },
-    {
-        "title": "Fittonia",
-        "description": "Perfect for low light areas.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/52.jpeg",
-        "waterAmountMlPerDay": 40
-    },
-    {
-        "title": "Chrysanthemum (indoor)",
-        "description": "Brightens up any room.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/53.jpeg",
-        "waterAmountMlPerDay": 80
-    },
-    {
-        "title": "Cissus",
-        "description": "Climbing plant with charm.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/54.jpeg",
-        "waterAmountMlPerDay": 40
-    },
-    {
-        "title": "Aeonium",
-        "description": "Succulent with bold texture.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/55.jpeg",
-        "waterAmountMlPerDay": 80
-    },
-    {
-        "title": "Gardenia",
-        "description": "Fragrant and elegant.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/56.jpeg",
-        "waterAmountMlPerDay": 30
-    },
-    {
-        "title": "Camellia",
-        "description": "Blooms with bright colors.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/57.jpeg",
-        "waterAmountMlPerDay": 100
-    },
-    {
-        "title": "Coffee plant",
-        "description": "Lush and tropical vibe.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/58.jpeg",
-        "waterAmountMlPerDay": 80
-    },
-    {
-        "title": "Lemon tree ",
-        "description": "Fresh scent and compact size.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/59.jpeg",
-        "waterAmountMlPerDay": 70
-    },
-    {
-        "title": "Mandarin tree",
-        "description": "Sweet fruit in small space.",
-        "imageUrl": "https://raw.githubusercontent.com/Arzymat01/data/main/images/60.jpeg",
-        "waterAmountMlPerDay": 500
     }
 ]
